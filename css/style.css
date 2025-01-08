@@ -1,0 +1,75 @@
+/* index styling */
+
+a:link {
+	color: blanchedalmond;
+}
+a:visited {
+	color: blanchedalmond;
+}
+a:hover {
+	color: chocolate;
+}
+
+.index_body {
+	font-family: Times New Roman, serif; 
+	background-color: #483C32; 
+	color: blanchedalmond; 
+	text-align: center; 
+	background-image: url('../images/bakery_bg2.jpg'); 
+	background-repeat: no-repeat; 
+	background-attachment: fixed; 
+	background-size: cover;
+}
+
+.index_heading1 {
+	font-size: 450%; 
+	border: 2px solid blanchedalmond; 
+	padding: 40px; 
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+.index_heading2 {
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+.index_div {
+	width: 8%;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* contact_us styling */
+
+.contact_us_body, .menu_body {
+	text-align: center; 
+	background-color: #483C32; 
+	color: blanchedalmond; 
+	font-family: Times New Roman, serif;"
+}
+
+.contact_us_heading1, .menu_heading1 {
+	font-size: 300%;
+}
+
+/* menu styling */
+
+div {
+	width:24.75%;  
+  	display:inline-block;
+}
+
+hr {
+	background-color: blanchedalmond; 
+	height: 0.5px;
+}
+
+.cake_div {
+	background-color: rgba(213,184,255,0.1);
+}
+
+.cupcake_div {
+	background-color: rgba(255,252,127,0.1);
+}
+
+.bread_div {
+	background-color: rgba(0, 181, 204, 0.1);
+}
